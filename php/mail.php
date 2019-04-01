@@ -2,6 +2,7 @@
 
     // Désactive les rapports d'erreurs
     error_reporting(0);
+    // var_dump($_POST);
 
     // Variable de réponse à la view
     $sResponseMail = '';
@@ -13,7 +14,7 @@
         extract($_POST);
 
         // Verification des champs
-        if( empty($nom) and empty($mail) and empty($objet) and empty($text) ){
+        if( empty($nom) or empty($mail) or empty($objet) or empty($text) ){
 
             $sErrorMail='Tous les champs ne sont pas remplis correctement';
         

@@ -607,12 +607,16 @@
                                                                     Paris 15ème
                                                                 </li>
                                                                 <li>
-                                                                    <a href="https://www.linkedin.com/in/guillaume-le-goff/" class="btn btn-primary btn-reverse white" target="blank">
-                                                                        Linkedin  
+                                                                    <a href="https://www.linkedin.com/in/guillaume-le-goff/"
+                                                                        class="btn btn-primary btn-reverse white"
+                                                                        target="blank">
+                                                                        Linkedin
                                                                         <i class="fab fa-linkedin"></i>
                                                                     </a>
-                                                                    <a href="https://github.com/guillaume-LE-GOFF" class="btn btn-primary btn-reverse white" target="blank" >
-                                                                        GitHub  
+                                                                    <a href="https://github.com/guillaume-LE-GOFF"
+                                                                        class="btn btn-primary btn-reverse white"
+                                                                        target="blank">
+                                                                        GitHub
                                                                         <i class="fab fa-github"></i>
                                                                     </a>
                                                                 </li>
@@ -659,7 +663,9 @@
                                                         <span class="wpcf7-form-control-wrap votre-message"><textarea
                                                                 name="text" cols="40" rows="10"
                                                                 class="wpcf7-form-control wpcf7-textarea"
-                                                                aria-invalid="false"></textarea></span> </label>
+                                                                aria-invalid="false"
+                                                                style="min-width: 100%;max-width: 100%;"></textarea></span>
+                                                    </label>
                                                 </div>
 
                                                 <div class="col-md-12">
@@ -674,7 +680,7 @@
                                                     <input type="submit" value="Envoyer"
                                                         class="wpcf7-form-control wpcf7-submit" />
                                                 </div>
-                                                
+
                                             </div>
                                             <div class="wpcf7-response-output wpcf7-display-none"></div>
                                         </form>
