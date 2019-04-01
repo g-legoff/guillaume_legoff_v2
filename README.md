@@ -7,7 +7,7 @@ It introduces who I am, the projects I've done and what I am currently working<b
 
 ------
 
-##Features
+## Features
 
 - Download my CV
 - A presentation of myself, what I'm working and I what is my background ?
@@ -17,6 +17,7 @@ It introduces who I am, the projects I've done and what I am currently working<b
 - Follow-me on Linkedin, GitHub
 - Form to send me a message if you want to contact me
 <br><br>
+
 ------
 
 ## Release History
@@ -30,11 +31,11 @@ It introduces who I am, the projects I've done and what I am currently working<b
  <summary>1.1</summary>
  Some modifications will comes soon ...
 </details>
+
 ------
 
-## TO-DO
+## To - do
 | Status        | Nom           | Version  |
 | --- | --- | --- |
-| 
-| :x:    | Do in JS a verification on the form  | :x: |
-| ✅      | First push online | 1.0 |
+| :x: | Do in JS a verification on the form  | 1.1 |
+| ✅ | First push online | 1.0 |
